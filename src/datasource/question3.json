@@ -1,0 +1,47 @@
+{
+  "CategoryName": null,
+  "QuestionType": 3,
+  "Text": "Suppose you are monitoring distinct attributes of some website (e.g., click rate, number of users, user bandwidth, etc.). You run an experiment whereby you deploy the website in two different graphical designs, with each receiving 50% of the views. If the null hypothesis is that the graphical design has no effect, then as you increase the number of attributes you monitor, which of the following is MOST likely to happen? (Here, \"false positive\" means rejecting the null hypothesis when one should not.)",
+  "Options": [
+    {
+      "Id": 11583662,
+      "QuestionId": 0,
+      "Text": "It becomes more likely for the experiment to yield a false positive",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583663,
+      "QuestionId": 0,
+      "Text": "It becomes less likely for the experiment to yield a false positive",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583664,
+      "QuestionId": 0,
+      "Text": "The probability that the experiment yields a false positive will not change",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583665,
+      "QuestionId": 0,
+      "Text": "The website needs to be deployed in more than two versions for this problem to make sense",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583666,
+      "QuestionId": 0,
+      "Text": "None of the above",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    }
+  ]
+}

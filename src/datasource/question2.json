@@ -1,0 +1,47 @@
+{
+  "CategoryName": null,
+  "QuestionType": 2,
+  "Text": "<p>You are a sales manager trying to prioritize limited resources, and have access to a data table which shows the number of sales leads and closed sales across all customer segments for three products, <span class=\"ql-formula\" data-value=\"A, B, C\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math><semantics><mrow><mi>A</mi><mo separator=\"true\">,</mo><mi>B</mi><mo separator=\"true\">,</mo><mi>C</mi></mrow><annotation encoding=\"application/x-tex\">A, B, C</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8777699999999999em; vertical-align: -0.19444em;\"></span><span class=\"mord mathdefault\">A</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.16666666666666666em;\"></span><span class=\"mord mathdefault\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.16666666666666666em;\"></span><span class=\"mord mathdefault\" style=\"margin-right: 0.07153em;\">C</span></span></span></span></span>﻿</span>. Based on the given data, choose the option that describes the BEST course of action to improve sales efficiency across all segments:</p><p><br></p><p><img src=\"https://s3.us-east-2.amazonaws.com/c1-questions/3197.png\" alt=\"Sales Lead &amp; Closed Sales Table\"></p>",
+  "Options": [
+    {
+      "Id": 11583657,
+      "QuestionId": 0,
+      "Text": "Have your sales team only promote product <img alt=\"A\" src=\"https://s3.amazonaws.com/c1-latex/da6276493789402e926ca367b6594d3a-option-19964-1.gif\">",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583658,
+      "QuestionId": 0,
+      "Text": "Have your sales team only promote products <img alt=\"A\" src=\"https://s3.amazonaws.com/c1-latex/260263b39ffa428a9d23978a43ad2a50-option-19965-1.gif\"> and <img alt=\"C\" src=\"https://s3.amazonaws.com/c1-latex/7ebd425a586c4afbad9dd63ff27317c7-option-19965-2.gif\">",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583659,
+      "QuestionId": 0,
+      "Text": "Have your sales team only promote product <img alt=\"B\" src=\"https://s3.amazonaws.com/c1-latex/12bc3acb4ae4496aa89e14bdfa25ba14-option-19966-1.gif\">",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583660,
+      "QuestionId": 0,
+      "Text": "Have your sales team only promote products <img alt=\"B\" src=\"https://s3.amazonaws.com/c1-latex/3f7424a524ce4abf907902baeae5ed7b-option-19967-1.gif\"> and <img alt=\"C\" src=\"https://s3.amazonaws.com/c1-latex/f64a5b33320a41778935fe6beb876dc3-option-19967-2.gif\">",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    },
+    {
+      "Id": 11583661,
+      "QuestionId": 0,
+      "Text": "Have your sales team promote all three products equally",
+      "Point": 0,
+      "IsCorrect": null,
+      "IsAnswer": null
+    }
+  ]
+}

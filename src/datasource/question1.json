@@ -1,0 +1,47 @@
+{
+    "CategoryName": null,
+    "QuestionType": 1,
+    "Text": "<p>A study is conducted to review infant mortality rates at hospitals across the country. The study finds that, among the 10 hospitals with the lowest infant mortality rates, 8 of them were in rural counties. The rural hospitals were remote, often understaffed, and had a significantly lower volume of total patients than urban hospitals did.</p><p><br></p><p>Based on this study, which of the following conclusions would be MOST logical?</p>",
+    "Options": [
+        {
+            "Id": 11583652,
+            "QuestionId": 0,
+            "Text": "Infants in rural communities likely receive a higher degree of care, because there are fewer patients for the hospitals to serve",
+            "Point": 0,
+            "IsCorrect": null,
+            "IsAnswer": null
+        },
+        {
+            "Id": 11583653,
+            "QuestionId": 0,
+            "Text": "Among the 10 hospitals with the highest infant mortality rates, the majority are likely from rural counties",
+            "Point": 0,
+            "IsCorrect": null,
+            "IsAnswer": null
+        },
+        {
+            "Id": 11583654,
+            "QuestionId": 0,
+            "Text": "Infants in rural communities are healthier because of external factors, such as air quality, pollution, and diet",
+            "Point": 0,
+            "IsCorrect": null,
+            "IsAnswer": null
+        },
+        {
+            "Id": 11583655,
+            "QuestionId": 0,
+            "Text": "If urban hospitals studied rural hospitals and adopted their practices, they could provide better infant care",
+            "Point": 0,
+            "IsCorrect": null,
+            "IsAnswer": null
+        },
+        {
+            "Id": 11583656,
+            "QuestionId": 0,
+            "Text": "All of the above hypotheses are equally plausible",
+            "Point": 0,
+            "IsCorrect": null,
+            "IsAnswer": null
+        }
+    ]
+}
